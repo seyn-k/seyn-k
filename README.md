@@ -1,1 +1,5 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seyn-k)](https://git.io/streak-stats)
+# My GitHub Streak Stats
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=seyn-k" alt="GitHub Streak Stats">
+</a>
