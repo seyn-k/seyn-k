@@ -31,8 +31,8 @@ I'm a passionate **Full Stack Developer** with a love for building efficient, mo
 ---
 
 📫 **Let's Connect!**
-- [LinkedIn]((https://www.linkedin.com/in/senthil-kumar-t-r/))
-- [Medium]((https://medium.com/@SeynK))
+- [LinkedIn](https://www.linkedin.com/in/senthil-kumar-t-r/)
+- [Medium](https://medium.com/@SeynK)
 - [Portfolio](https://github.com/seyn-k)
 
 ---
