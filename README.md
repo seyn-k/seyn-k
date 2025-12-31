@@ -33,8 +33,7 @@ I'm a passionate **Full Stack Developer** with a love for building efficient, mo
 📫 **Let's Connect!**
 - [LinkedIn](https://www.linkedin.com/in/senthil-kumar-t-r/)
 - [Medium](https://medium.com/@SeynK)
-- [Portfolio]([https://senthil-portfolio-zeta.vercel.app/])
-
+  
 ---
 
 ⚡ Fun Fact: I'm always curious about how things work—from X-ray machines to language models—and love building cool stuff from scratch!
